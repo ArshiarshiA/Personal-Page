@@ -37,7 +37,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 # OVERVIEW ON THIS PROJECT
 in dark mode :
-![overview](../feri-code/public/overview/personal.png)
+<!-- ![overview](../feri-code/public/overview/personal.png) -->
+<img src="./public/overview/personal.png">
 
 in light mode : 
-![overview](../feri-code/public/overview/personal-white.png)
+<img src="./public/overview/personal-white.png">
+<!-- ![overview](../feri-code/public/overview/personal-white.png) -->
