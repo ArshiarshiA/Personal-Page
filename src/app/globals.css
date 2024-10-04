@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0e0e0e;
+  --forGround: white;
+}
+
+html{scroll-behavior: smooth}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+  }
+} */
+
+body {
+  color: var(--forGround);
+  /* background: var(--background); */
+  font-family: 'Fredoka' , sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

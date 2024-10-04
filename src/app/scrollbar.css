@@ -1,0 +1,3 @@
+::-webkit-scrollbar{-webkit-user-select: none; user-select: none; width: 7px;}
+::-webkit-scrollbar-track{background: rgb(73, 73, 73);}
+::-webkit-scrollbar-thumb{background: white;}

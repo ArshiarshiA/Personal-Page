@@ -1,0 +1,5 @@
+.swiper-slide{
+    display: flex;
+    justify-content: center;
+}
+.swiper-slide button{font-size: 50px}
